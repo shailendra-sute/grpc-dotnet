@@ -1,7 +1,6 @@
 # gRPC Bookstore and Greetings Service in .NET Core C#
 
-
-## Inspired by https://github.com/GoogleCloudPlatform/python-docs-samples/tree/master/endpoints/bookstore-grpc
+Inspired by https://github.com/GoogleCloudPlatform/python-docs-samples/tree/master/endpoints/bookstore-grpc
 
 ### Coming up:
 
